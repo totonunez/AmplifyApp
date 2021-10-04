@@ -1,0 +1,2 @@
+# AmplifyApp
+prueba proyecto amplify
